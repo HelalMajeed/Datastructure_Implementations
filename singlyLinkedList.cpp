@@ -116,6 +116,7 @@ public:
                 if(ptr->item == data) {
                     tmp->next = ptr->next;
                     delete ptr;
+                    length--;
                     return;
                 }
             }
