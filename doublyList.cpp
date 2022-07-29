@@ -161,7 +161,7 @@ public:
 
     void replace(int value, size_t position) {
 
-        if(isEmpty() || position > length || position < 0) {
+        if(isEmpty() || position > length) {
             cout << "Fuck off!" << endl;
             return;
         }
