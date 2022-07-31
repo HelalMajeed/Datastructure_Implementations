@@ -69,7 +69,7 @@ public:
 
     void addInPosition(int value, size_t position) {
 
-        if(position > length || position < 0) {
+        if(position > length) {
             cout << "Out of range!\n";
             return;
         }
