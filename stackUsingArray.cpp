@@ -73,7 +73,7 @@ public:
 
 int main() {
 
-    stackTypeArray<string> myStack(5);
+    stackTypeArray<string> myStack(4);
 
     myStack.insert("School");
     myStack.insert("college");
