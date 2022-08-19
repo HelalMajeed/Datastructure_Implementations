@@ -62,7 +62,7 @@ int main() {
 	  3 related to 1 and 2
 	  and vice versa
 
-    */
+    	*/
 
 	return(0);
 }
