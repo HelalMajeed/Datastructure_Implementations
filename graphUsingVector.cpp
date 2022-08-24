@@ -1,16 +1,15 @@
 /* @AUTHOR:HELAL ***  @DATE:2022-AUG-19  ***  SUB:GRAPH-DATA-STRUCTU */
 
 /* Lets imagine this graph(undirected graph):
- *
- * 	         0 
- * 		/ \
- * 	       1---2
- * 	        \ /
- * 	         3
- * 	      
- * And lets implement it using vector
- */
-
+		
+		0
+	   / \
+	  1---2
+	   \ /
+	    3
+		
+* And lets implement it using vector
+*/
 
 #include <iostream>
 #include <vector>
