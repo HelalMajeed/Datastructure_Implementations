@@ -2,7 +2,7 @@
 
 /* Lets imagine this graph(undirected graph):
 		
-		0
+            0
 	   / \
 	  1---2
 	   \ /
