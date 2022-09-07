@@ -1,3 +1,9 @@
+/* BINARY SEARCH TREE
+ * AUTHOR HELAL MAJEED
+ * DATE 22 SEP 8 1:07 AM
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
