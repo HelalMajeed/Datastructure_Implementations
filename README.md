@@ -1,3 +1,3 @@
 # Here are datastructers implementations
-* C++
+* \textbf{C++}
 * C Programming language
