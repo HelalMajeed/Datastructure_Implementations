@@ -1,3 +1,3 @@
 # Here are datastructers implementations
-* \textbf{C++}
+* <p weight = 700> C++ </p>
 * C Programming language
